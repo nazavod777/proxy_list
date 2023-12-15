@@ -1,11 +1,11 @@
 [![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/n4z4v0d)](https://t.me/n4z4v0d) 
 
 **Dynamic Updates Proxy List Every Minute**  
-**Last Updated: 16.12.23 00:32**
+**Last Updated: 16.12.23 00:33**
 
 | HTTP        | HTTPS        | SOCKS4        | SOCKS5        |
 |-------------|--------------|---------------|---------------|
-| 37537 | 3591 | 12134 | 10129 |
+| 37549 | 3642 | 12150 | 10129 |
 
 
 # DONATE (_any evm_) - 0xDEADf12DE9A24b47Da0a43E1bA70B8972F5296F2
